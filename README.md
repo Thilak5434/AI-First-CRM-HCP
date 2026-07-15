@@ -110,6 +110,4 @@ crm-hcp-project/
 
 ---
 
-## Submission Details
 
-- **Google Form Submission URL**: [https://forms.gle/XdvLNBJkbdVDGADM8](https://forms.gle/XdvLNBJkbdVDGADM8)
